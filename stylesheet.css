@@ -1,5 +1,6 @@
 body {
-    background-color: #FFFFFF;
+    background-color: #222222;
+    font-family: arial;
 }
 
 div {
@@ -20,8 +21,35 @@ img {
     max-height: 100%;
 }
 
+h1 {
+    color: #66FFFF;
+    margin-left: 110px;
+}
+
+p {
+    color: #FFFFFF;
+    margin-left: 110px;
+}
+
+a {
+    color: #66B2FF;
+    text-decoration: none;
+}
+
+.buttons {
+    color: #FFFFFF;
+}
+
+#pic {
+    display: block;
+    height: 400px;
+    width: 400px;
+    margin-left: 110px;
+}
+
 #name {
     background-color: #888888;
+    font-family: cursive;
 }
 
 #b1 {
