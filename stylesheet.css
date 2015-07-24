@@ -46,9 +46,10 @@ a {
 
 #pic {
     display: block;
-    height: 400px;
-    width: 400px;
-    margin-left: 125px;
+    height: 300px;
+    width: 300px;
+    margin-left: 175px;
+    margin-top: 4%;
 }
 
 #name {
@@ -71,3 +72,16 @@ a {
 #b4 {
     background-color: #CCFFFF; 
 }
+
+/*
+.header {
+    display: none;
+}
+
+div:hover + .header {
+    display: inline-block;
+}
+*/
+
+
+
