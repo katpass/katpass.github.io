@@ -29,6 +29,11 @@ h1 {
     margin-left: 105px;
 }
 
+h2 {
+    color: #66B2FF;
+    margin-left: 105px;
+}
+
 p {
     color: #FFFFFF;
     margin-left: 105px;
@@ -76,6 +81,11 @@ hr {
 
 #b4 {
     background-color: #CCFFFF; 
+}
+
+span {
+    color: #CCFFFF;
+    text-decoration: underline;
 }
 
 /*
