@@ -3,6 +3,7 @@ body {
     font-family: arial;
     width: 800px;
     margin: 0 auto;
+    margin-top: 1%;
 }
 
 div {
@@ -25,17 +26,21 @@ img {
 
 h1 {
     color: #66FFFF;
-    margin-left: 110px;
+    margin-left: 105px;
 }
 
 p {
     color: #FFFFFF;
-    margin-left: 110px;
+    margin-left: 105px;
 }
 
 a {
     color: #66B2FF;
     text-decoration: none;
+}
+
+hr {
+    border: 2px dashed white;
 }
 
 .buttons {
@@ -46,13 +51,15 @@ a {
     display: block;
     height: 300px;
     width: 300px;
-    margin-left: 175px;
+    margin-left: 170px;
     margin-top: 4%;
 }
 
 #name {
     background-color: #888888;
     font-family: cursive;
+    font-size: 28px;
+    margin-left: 0px;
 }
 
 #b1 {
