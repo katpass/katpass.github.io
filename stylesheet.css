@@ -46,8 +46,14 @@ a:hover {
 }
 
 span {
+}
+
+.resume {
     color: #CCFFFF;
-    text-decoration: underline;
+}
+
+.projects {
+    color: #66B2FF;
 }
 
 #pic {
