@@ -160,9 +160,16 @@ hr {
     background-color: #66FFFF;
 }
 
+#bb1:hover {
+    background-color: #FFFFFF;
+}
+
 #bb2 {
     background-color: #66B2FF;
 }
 
+#bb2:hover {
+    background-color: #FFFFFF;
+}
 
 
