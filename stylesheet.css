@@ -45,6 +45,14 @@ a:hover {
     color: #CCE5FF;
 }
 
+.projects_link {
+    color: #FFFFFF;
+}
+
+a.projects_link:hover {
+    color: #CCFFFF;
+}
+
 span {
 }
 
