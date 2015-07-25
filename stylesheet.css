@@ -1,3 +1,5 @@
+/*--------- BODY ---------*/
+
 body {
     background-color: #222222;
     font-family: arial;
@@ -7,21 +9,16 @@ body {
 }
 
 div {
-    border-radius: 100%;
-    height: 100px;
-    width: 100px;
     margin: auto;
-    margin-top: 5px;
     text-align: center;
-    line-height: 100px;
     display: inline-block;
     color: #FFFFFF;
-    margin-left: 5px;
 }
 
 img {
     max-width: 100%;
     max-height: 100%;
+    vertical-align: middle;
 }
 
 h1 {
@@ -44,12 +41,13 @@ a {
     text-decoration: none;
 }
 
-hr {
-    border: 2px dashed white;
+a:hover {
+    color: #CCE5FF;
 }
 
-.buttons {
-    color: #FFFFFF;
+span {
+    color: #CCFFFF;
+    text-decoration: underline;
 }
 
 #pic {
@@ -58,6 +56,21 @@ hr {
     width: 300px;
     margin-left: 170px;
     margin-top: 4%;
+}
+
+/*--------- HEADER ---------*/
+
+.header {
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.buttons {
+    color: #FFFFFF;
 }
 
 #name {
@@ -69,34 +82,67 @@ hr {
 
 #b1 {
     background-color: #66B2FF;
+    color: #FFFFFF;
+}
+
+#b1:hover {
+    background-color: #FFFFFF;
+    color: #66B2FF;
 }
 
 #b2 {
     background-color: #66FFFF; 
+    color: #FFFFFF;
+}
+
+#b2:hover {
+    background-color: #FFFFFF;
+    color: #66FFFF;
 }
 
 #b3 {
     background-color: #CCE5FF;
+    color: #FFFFFF;
+}
+
+#b3:hover {
+    background-color: #FFFFFF;
+    color: #CCE5FF;
 }
 
 #b4 {
-    background-color: #CCFFFF; 
+    background-color: #CCFFFF;
+    color: #FFFFFF; 
 }
 
-span {
+#b4:hover {
+    background-color: #FFFFFF;
     color: #CCFFFF;
-    text-decoration: underline;
 }
 
-/*
-.header {
-    display: none;
+hr {
+    border: 2px dashed white;
 }
 
-div:hover + .header {
-    display: inline-block;
+/*--------- FOOTER ---------*/
+
+.footer {
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    float: right;
 }
-*/
+
+#bb1 {
+    background-color: #66FFFF;
+}
+
+#bb2 {
+    background-color: #66B2FF;
+}
 
 
 
