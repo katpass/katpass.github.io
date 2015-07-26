@@ -183,4 +183,37 @@ hr {
     background-color: #FFFFFF;
 }
 
+/*--------- FOOTER ---------*/
+
+table, td {
+    border: 5px solid #222222;
+    margin-left: 75px;
+    margin-bottom: 20px;
+}
+
+.pi:link {
+    background-color: #222222;
+}
+
+.pi_info {
+    display: none;
+}
+
+div.pi:hover {
+    display: none;
+}
+
+div.pi:hover + div.pi_info {
+    display: block;
+}
+
+div.pi_info:hover {
+    display: block;
+}
+
+div.pi_info:hover + div.pi {
+    display: none;
+}
+
+
 
