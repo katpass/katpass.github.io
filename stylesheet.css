@@ -1,8 +1,8 @@
 /*--------- COLORS ---------*/
 
 /*
-Blue:           #66FFFF
-Green:          #66B2FF
+Blue:           #66B2FF
+Green:          #66FFFF
 Light Blue:     #CCE5FF
 Light Green:    #CCFFFF
 Gray:           #222222
@@ -183,7 +183,18 @@ hr {
     background-color: #FFFFFF;
 }
 
-/*--------- FOOTER ---------*/
+/*--------- INDEX ---------*/
+
+#index_name:link {
+    font-size: 400%;
+    font-family: cursive;
+}
+
+#index_name:hover {
+    color: #66FFFF;
+}
+
+/*--------- PI ---------*/
 
 table, td {
     border: 5px solid #222222;
