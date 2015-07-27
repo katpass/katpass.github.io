@@ -101,8 +101,8 @@ span {
 #name {
     background-color: #888888;
     color: #FFFFFF;
-    font-family: cursive;
-    font-size: 28px;
+    font-family: "Lucida handwriting";
+    font-size: 18px;
     margin-left: 0px;
 }
 
@@ -186,8 +186,8 @@ hr {
 /*--------- INDEX ---------*/
 
 #index_name:link {
-    font-size: 400%;
-    font-family: cursive;
+    font-size: 300%;
+    font-family: "Lucida handwriting";
 }
 
 #index_name:hover {
