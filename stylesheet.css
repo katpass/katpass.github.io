@@ -203,18 +203,11 @@ table, td {
 }
 
 .pi:link {
+    opacity: 1;
 }
 
-#pi_pie_2:link {
-}
-
-#pi_pie_2_text {
-    visibility: hidden;
-    z-index: 1;
-}
-
-#pi_pie_2:hover {
-    visibility: visible;
+.pi:hover {
+    opacity: .3;
 }
 
 /*.pi_info: {
