@@ -207,7 +207,16 @@ table, td {
 }
 
 .pi:hover {
-    opacity: .3;
+    opacity: .25;
 }
+
+.pi_text {
+    opacity: .25;
+}
+
+.pi_text:hover {
+    opacity: 1;
+}
+
 
 
