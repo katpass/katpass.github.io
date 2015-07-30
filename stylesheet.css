@@ -93,7 +93,7 @@ span {
 #name {
     background-color: #888888;
     color: #FFFFFF;
-    font-family: "Lucida handwriting";
+    font-family: "Lucida handwriting", "Courier New";
     font-size: 18px;
     margin-left: 0px;
 }
