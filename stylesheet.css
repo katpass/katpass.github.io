@@ -3,8 +3,8 @@
 /*
 Blue:           #66B2FF
 Green:          #66FFFF
-Light Blue:     #C3DCFC
-Light Green:    #C6FAFA
+Light Blue:     #BDD6FF
+Light Green:    #BEF2FA
 Gray:           #222222
 Light Gray:     #888888
 */
@@ -53,26 +53,7 @@ a {
 }
 
 a:hover {
-    color: #CCE5FF;
-}
-
-.projects_link {
-    color: #FFFFFF;
-}
-
-a.projects_link:hover {
-    color: #CCFFFF;
-}
-
-span {
-}
-
-.resume {
-    color: #CCFFFF;
-}
-
-.projects {
-    color: #66B2FF;
+    color: #BEF2FA;
 }
 
 /*--------- HEADER ---------*/
@@ -124,23 +105,23 @@ span {
 }
 
 #b3 {
-    background-color: #C3DCFC;
+    background-color: #BDD6FF;
     color: #FFFFFF;
 }
 
 #b3:hover {
     background-color: #FFFFFF;
-    color: #C3DCFC;
+    color: #BDD6FF;
 }
 
 #b4 {
-    background-color: #C6FAFA;
+    background-color: #BEF2FA;
     color: #FFFFFF; 
 }
 
 #b4:hover {
     background-color: #FFFFFF;
-    color: #C6FAFA;
+    color: #BEF2FA;
 }
 
 hr {
@@ -192,6 +173,26 @@ hr {
 
 #index_name:hover {
     color: #66FFFF;
+}
+
+/*--------- RESUME ---------*/
+
+.resume {
+    color: #BEF2FA;
+}
+
+/*--------- PROJECTS ---------*/
+
+.projects {
+    color: #66B2FF;
+}
+
+.projects_link {
+    color: #FFFFFF;
+}
+
+a.projects_link:hover {
+    color: #BEF2FA;
 }
 
 /*--------- PI ---------*/
