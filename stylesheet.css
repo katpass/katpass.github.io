@@ -86,42 +86,42 @@ a:hover {
 
 #b1 {
     background-color: #66B2FF;
-    color: #FFFFFF;
+    color: #222222;
 }
 
 #b1:hover {
     background-color: #FFFFFF;
-    color: #66B2FF;
+    /*color: #66B2FF;*/
 }
 
 #b2 {
     background-color: #66FFFF; 
-    color: #FFFFFF;
+    color: #222222;
 }
 
 #b2:hover {
     background-color: #FFFFFF;
-    color: #66FFFF;
+    /*color: #66FFFF;*/
 }
 
 #b3 {
     background-color: #BDD6FF;
-    color: #FFFFFF;
+    color: #222222;
 }
 
 #b3:hover {
     background-color: #FFFFFF;
-    color: #BDD6FF;
+    /*color: #BDD6FF;*/
 }
 
 #b4 {
     background-color: #BEF2FA;
-    color: #FFFFFF; 
+    color: #222222; 
 }
 
 #b4:hover {
     background-color: #FFFFFF;
-    color: #BEF2FA;
+    /*color: #BEF2FA;*/
 }
 
 hr {
